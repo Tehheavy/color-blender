@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7edc7f47b04a822e122e410377b1cc01",
+    "revision": "746171bb9a9ea5e2e7d6a7ac00cbbf93",
     "url": "/color-blender/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/color-blender/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "263835315b2b9081ff50",
-    "url": "/color-blender/static/css/main.8126cdba.chunk.css"
+    "revision": "7cc9def90619eeaacf4b",
+    "url": "/color-blender/static/css/main.6a6c5018.chunk.css"
   },
   {
     "revision": "109b4833c46c190ad4f3",
     "url": "/color-blender/static/js/2.d0664021.chunk.js"
   },
   {
-    "revision": "263835315b2b9081ff50",
-    "url": "/color-blender/static/js/main.8aef4ed0.chunk.js"
+    "revision": "7cc9def90619eeaacf4b",
+    "url": "/color-blender/static/js/main.4340096d.chunk.js"
   },
   {
     "revision": "1c8ebf309be2fc406e56",
