@@ -1,0 +1,7 @@
+.color-result-class{
+    margin-top: 1rem;
+    height: 500px;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+    border-style: solid;
+    border-width: 5px;
+}
