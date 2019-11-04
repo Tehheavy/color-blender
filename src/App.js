@@ -29,6 +29,15 @@ function App() {
     setColors(a);
     console.log("colors are ", colors);
   };
+  const handleDeleteClick=(key)=>{
+    console.log("deleting key:"+key)
+    let tempColorArray=colors.filter(value=>value.key!==key)
+    let tempKeyArray=picker.filter(value=>value.key!==key)
+    console.log(tempColorArray)
+    setColors(tempColorArray)
+    setPickers(tempKeyArray)
+
+  }
 
   const handleAddPickers = () => {
     setPickers([...picker, { key: keyval }]);
@@ -47,10 +56,11 @@ function App() {
               name={colors}
               colors={colors}
               onChangeComplete={handleChangeComplete}
+              onDeleteClick={handleDeleteClick}
             ></ColorPickers>
             {/* <button onClick={handleAddPickers} style={{fontSize:"5rem"}}>+</button> */}
-            <Fab color="primary" aria-label="add" onClick={handleAddPickers}>
-              <AddIcon />
+            <Fab color="primary" aria-label="add" text="-"onClick={handleAddPickers}>
+              <AddIcon ></AddIcon>
             </Fab>
           </Col>
           <Col md={6} sm={12}>

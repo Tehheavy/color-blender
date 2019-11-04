@@ -10,7 +10,41 @@
   
 }
 .color-picker-class{
+  display: flex;
   border-style: solid;
   border-width: 5px;
+  justify-content: space-between;
+  width: 80%;
 
+}
+
+.entire-picker-class button{
+  background-color: rgb(209, 0, 0);
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  height: 5rem;
+  width: 5rem;
+  margin: auto;
+  font-size: xx-large;
+  vertical-align: top;
+  border-radius: 50%;
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12);
+  text-align: top;
+  box-sizing: border-box; /* <- added this */
+
+}
+.entire-picker-class button span{
+
+
+}
+.entire-picker-class button:hover{
+  transition-duration: 0.5s;
+  background-color: rgb(114, 0, 0);
+
+}
+.entire-picker-class{
+  display: flex;
+  justify-content: space-between;
 }
