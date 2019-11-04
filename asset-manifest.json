@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/color-blender/static/css/main.6a6c5018.chunk.css",
+    "main.css": "/color-blender/static/css/main.e399fd57.chunk.css",
     "main.js": "/color-blender/static/js/main.4340096d.chunk.js",
     "main.js.map": "/color-blender/static/js/main.4340096d.chunk.js.map",
     "runtime-main.js": "/color-blender/static/js/runtime-main.f3dd2ec9.js",
@@ -9,17 +9,17 @@
     "static/js/2.d0664021.chunk.js": "/color-blender/static/js/2.d0664021.chunk.js",
     "static/js/2.d0664021.chunk.js.map": "/color-blender/static/js/2.d0664021.chunk.js.map",
     "index.html": "/color-blender/index.html",
-    "precache-manifest.dccfc9ff37551cbb48f11e32be8aa815.js": "/color-blender/precache-manifest.dccfc9ff37551cbb48f11e32be8aa815.js",
+    "precache-manifest.d203952f214c0bdf521369bf04c68f41.js": "/color-blender/precache-manifest.d203952f214c0bdf521369bf04c68f41.js",
     "service-worker.js": "/color-blender/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/color-blender/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.6a6c5018.chunk.css.map": "/color-blender/static/css/main.6a6c5018.chunk.css.map",
+    "static/css/main.e399fd57.chunk.css.map": "/color-blender/static/css/main.e399fd57.chunk.css.map",
     "static/media/logo.svg": "/color-blender/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f3dd2ec9.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.d0664021.chunk.js",
-    "static/css/main.6a6c5018.chunk.css",
+    "static/css/main.e399fd57.chunk.css",
     "static/js/main.4340096d.chunk.js"
   ]
 }
